@@ -1,1 +1,1 @@
-model.save('https://www.kaggle.com/models/parv09/model1/')
+model.save('model.h5')
